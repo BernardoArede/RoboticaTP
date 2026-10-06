@@ -1,0 +1,5 @@
+robot:
+  model: Lite6
+  ip: 192.168.1.176
+  studio_port:18333
+  angle_unit: degree
